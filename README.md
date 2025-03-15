@@ -33,8 +33,7 @@
 ![Submit a Review - ShopEase - Opera 15-03-2025 16_02_07](https://github.com/user-attachments/assets/2aa3f119-13ae-4ee9-999f-2d61afec70a8)
 
 🤝 Contributing
- 
-   Contributions are welcome! If you'd like to improve this project, follow these steps:
+ Contributions are welcome! If you'd like to improve this project, follow these steps:
 
   1. Fork the repository.
 
@@ -53,8 +52,8 @@
 📩 Contact
 
    For any queries or suggestions, feel free to reach out:
-  -**GitHub**: atiya0419
-  -**Email**: atiya19apr@gmail.com
+  - **GitHub**: atiya0419
+  - **Email**: atiya19apr@gmail.com
 
 
 
