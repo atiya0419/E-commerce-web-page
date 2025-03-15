@@ -4,11 +4,11 @@ This project is a full-scale e-commerce web page designed to provide a seamless 
 
 🚀 Features
 
-Product catalog with search and filtering options
+- Product catalog with search and filtering options
 
-Shopping cart functionality
+- Shopping cart functionality
 
-Responsive design for mobile and desktop
+- Responsive design for mobile and desktop
 
 🛠️ Technologies Used
 
