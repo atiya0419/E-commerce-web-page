@@ -13,24 +13,21 @@
 
 🛠️ Technologies Used
 
-    Frontend: HTML, CSS, JavaScript
+-**Frontend:** HTML, CSS, JavaScript
 
 🏗️ Installation & Setup
 
      1. Clone the repository: 
      ```sh
            git clone https://github.com/atiya0419/E-commerce-web-page.git
-     ```
-
-   2. Navigate to the project directory:
+     
+     2. Navigate to the project directory:
     ```sh
          cd E-commerce-web-page
-    ```
-
-  3. ```sh
+  
+     3. ```sh
        cd E-commerce-web-page
    
-
 📷 Screenshots
 ![ShopEase - Home - Opera 14-03-2025 12_30_37](https://github.com/user-attachments/assets/4418f602-9cc7-4b95-8803-f6966b561a16)
 ![ShopEase - Home - Opera 14-03-2025 12_30_51](https://github.com/user-attachments/assets/ae53d150-0bc3-46ec-bfe3-2dd55c954ca5)
@@ -55,15 +52,15 @@
 
 🛡️ License
 
-   This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
 
 📩 Contact
 
-   For any queries or suggestions, feel free to reach out:
+    For any queries or suggestions, feel free to reach out:
 
-   GitHub: atiya0419
+    GitHub: atiya0419
 
-   Email: atiya19apr@gmail.com
+    Email: atiya19apr@gmail.com
 
 
 
