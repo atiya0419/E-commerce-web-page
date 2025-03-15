@@ -18,14 +18,14 @@
 🏗️ Installation & Setup
 
      1. Clone the repository: 
-     ```sh
+    
            git clone https://github.com/atiya0419/E-commerce-web-page.git
      
      2. Navigate to the project directory:
-    ```sh
+    
          cd E-commerce-web-page
   
-     3. ```sh
+     3.
        cd E-commerce-web-page
    
 📷 Screenshots
