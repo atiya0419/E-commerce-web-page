@@ -17,14 +17,8 @@
 
 🏗️ Installation & Setup
 
-     1. Clone the repository: 
-    
-           git clone https://github.com/atiya0419/E-commerce-web-page.git
-     
-     2. Navigate to the project directory:
-    
-         cd E-commerce-web-page
-  
+     1. Clone the repository:  git clone https://github.com/atiya0419/E-commerce-web-page.git
+     2. Navigate to the project directory: cd E-commerce-web-page
      3. Open the `index.html` file in your browser.
    
 📷 Screenshots
