@@ -20,7 +20,7 @@ using only HTML, CSS, and JavaScript to ensure a smooth and interactive user exp
   1. Clone the repository:
      git clone https://github.com/atiya0419/E-commerce-web-page.git
   2. Navigate to the project directory:
-       cd E-commerce-web-page
+         cd E-commerce-web-page
   3. Open the `index.html` file in your browser.
 
 📷 Screenshots
