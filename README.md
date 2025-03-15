@@ -1,6 +1,7 @@
 📌 Project Description
 
-This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
+ This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built 
+ using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
 
 🚀 Features
 
@@ -19,8 +20,8 @@ This project is a full-scale e-commerce web page designed to provide a seamless 
   1. Clone the repository:
      git clone https://github.com/atiya0419/E-commerce-web-page.git
   2. Navigate to the project directory:
-     cd E-commerce-web-page
-  3. Open the index.html file in your browser.
+       cd E-commerce-web-page
+  3. Open the `index.html` file in your browser.
 
 📷 Screenshots
 
@@ -33,27 +34,28 @@ This project is a full-scale e-commerce web page designed to provide a seamless 
 
 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve this project, follow these steps:
+  Contributions are welcome! If you'd like to improve this project, follow these steps:
 
-Fork the repository.
+  1. Fork the repository.
 
-Create a new branch (git checkout -b feature-branch).
+  2. Create a new branch (git checkout -b feature-branch).
 
-Commit your changes (git commit -m 'Add new feature').
+  3. Commit your changes (git commit -m 'Add new feature').
 
-Push to the branch (git push origin feature-branch).
+  4. Push to the branch (git push origin feature-branch).
 
-Create a Pull Request.
+  5. Create a Pull Request.
 
 🛡️ License
 
-This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
 
 📩 Contact
 
-For any queries or suggestions, feel free to reach out:
+  For any queries or suggestions, feel free to reach out:
 
-GitHub: atiya0419
+  -**GitHub**: atiya0419
+  -**Email**: atiya19apr@gmail.com
 
 Email: [YourEmail@example.com] (Replace with actual email)
 
