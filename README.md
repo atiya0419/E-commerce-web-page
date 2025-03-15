@@ -36,15 +36,15 @@ Frontend: HTML, CSS, JavaScript
 
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch (git checkout -b feature-branch).
+2. Create a new branch (git checkout -b feature-branch).
 
-Commit your changes (git commit -m 'Add new feature').
+3. Commit your changes (git commit -m 'Add new feature').
 
-Push to the branch (git push origin feature-branch).
+4. Push to the branch (git push origin feature-branch).
 
-Create a Pull Request.
+5. Create a Pull Request.
 
 🛡️ License
 
