@@ -16,13 +16,19 @@ Frontend: HTML, CSS, JavaScript
 
 🏗️ Installation & Setup
 
-1. Clone the repository:
-   git clone https://github.com/atiya0419/E-commerce-web-page.git
+     1. Clone the repository: 
+     ```sh
+        git clone https://github.com/atiya0419/E-commerce-web-page.git
+     ```
 
-2. Navigate to the project directory:
-   cd E-commerce-web-page
+   2. Navigate to the project directory:
+    ```sh
+      cd E-commerce-web-page
+    ```
 
-3. cd E-commerce-web-page
+  3. ```sh
+       cd E-commerce-web-page
+    ```
 
 📷 Screenshots
 ![ShopEase - Home - Opera 14-03-2025 12_30_37](https://github.com/user-attachments/assets/4418f602-9cc7-4b95-8803-f6966b561a16)
@@ -34,7 +40,7 @@ Frontend: HTML, CSS, JavaScript
 
 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve this project, follow these steps:
+   Contributions are welcome! If you'd like to improve this project, follow these steps:
 
 1. Fork the repository.
 
