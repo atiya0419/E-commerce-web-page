@@ -1,7 +1,7 @@
 📌 Project Description
 
- This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built 
- using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
+  This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built 
+  using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
 
 🚀 Features
 
@@ -33,8 +33,8 @@
 ![Submit a Review - ShopEase - Opera 15-03-2025 16_02_07](https://github.com/user-attachments/assets/2aa3f119-13ae-4ee9-999f-2d61afec70a8)
 
 🤝 Contributing
-
-  Contributions are welcome! If you'd like to improve this project, follow these steps:
+ 
+   Contributions are welcome! If you'd like to improve this project, follow these steps:
 
   1. Fork the repository.
 
@@ -48,14 +48,13 @@
 
 🛡️ License
 
-  This project is licensed under the MIT License.
+   This project is licensed under the MIT License.
 
 📩 Contact
 
-  For any queries or suggestions, feel free to reach out:
-
+   For any queries or suggestions, feel free to reach out:
   -**GitHub**: atiya0419
   -**Email**: atiya19apr@gmail.com
 
-Email: [YourEmail@example.com] (Replace with actual email)
+
 
