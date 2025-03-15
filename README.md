@@ -1,29 +1,30 @@
 📌 Project Description
 
-This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
+   This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built 
+   using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
 
 🚀 Features
 
-- Product catalog with search and filtering options
+    - Product catalog with search and filtering options
 
-- Shopping cart functionality
+    - Shopping cart functionality
 
-- Responsive design for mobile and desktop
+    - Responsive design for mobile and desktop
 
 🛠️ Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+    Frontend: HTML, CSS, JavaScript
 
 🏗️ Installation & Setup
 
      1. Clone the repository: 
      ```sh
-        git clone https://github.com/atiya0419/E-commerce-web-page.git
+           git clone https://github.com/atiya0419/E-commerce-web-page.git
      ```
 
    2. Navigate to the project directory:
     ```sh
-      cd E-commerce-web-page
+         cd E-commerce-web-page
     ```
 
   3. ```sh
@@ -42,27 +43,27 @@ Frontend: HTML, CSS, JavaScript
 
    Contributions are welcome! If you'd like to improve this project, follow these steps:
 
-1. Fork the repository.
+   1. Fork the repository.
 
-2. Create a new branch (git checkout -b feature-branch).
+   2. Create a new branch (git checkout -b feature-branch).
 
-3. Commit your changes (git commit -m 'Add new feature').
+   3. Commit your changes (git commit -m 'Add new feature').
 
-4. Push to the branch (git push origin feature-branch).
+   4. Push to the branch (git push origin feature-branch).
 
-5. Create a Pull Request.
+   5. Create a Pull Request.
 
 🛡️ License
 
-This project is licensed under the MIT License.
+   This project is licensed under the MIT License.
 
 📩 Contact
 
-For any queries or suggestions, feel free to reach out:
+   For any queries or suggestions, feel free to reach out:
 
-GitHub: atiya0419
+   GitHub: atiya0419
 
-Email: atiya19apr@gmail.com
+   Email: atiya19apr@gmail.com
 
 
 
