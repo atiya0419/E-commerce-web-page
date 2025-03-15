@@ -1,0 +1,347 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    align-items: center;
+}
+
+nav .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+nav ul li a:hover {
+    color: #ff9900;
+}
+
+/* Hero Section */
+.hero {
+    background: url('images/logo.jpg') center/cover no-repeat;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/* Shop Now Button */
+.hero .shop-btn {
+    display: inline-block;
+    background-color: #ff9900;
+    color: white;
+    padding: 12px 25px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.hero .shop-btn:hover {
+    background-color: #e68a00;
+}
+
+/* Trending Products Section */
+.trending {
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.trending h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Product Grid */
+.products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.product {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.product:hover {
+    transform: scale(1.05);
+}
+
+.product img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.product h3 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.product p {
+    color: #555;
+    font-size: 1rem;
+}
+
+/* Add to Cart Button */
+.product button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.product button:hover {
+    background-color: #e68a00;
+}
+
+
+
+
+
+/* Cart Container */
+.cart-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Individual Cart Item */
+.cart-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    background: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+/* Cart Item Image */
+.cart-image {
+    width: 100px;  /* Set a fixed width */
+    height: 100px; /* Set a fixed height */
+    object-fit: contain; /* Ensures the entire image is visible without cropping */
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color: white;
+}
+
+/* Cart Details (Product Name, Price, Quantity) */
+.cart-details {
+    flex-grow: 1;
+    margin-left: 15px;
+}
+
+/* Cart Product Name */
+.cart-details h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+/* Cart Product Price */
+.cart-details p {
+    margin: 5px 0;
+    color: #555;
+}
+
+/* Quantity Selector */
+.quantity {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.quantity input {
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Remove Item Button */
+.remove-item {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.remove-item:hover {
+    background-color: darkred;
+}
+
+/* Checkout Button */
+.checkout-btn {
+    display: block;
+    width: 100%;
+    background-color: #ff9900;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.checkout-btn:hover {
+    background-color: #e68a00;
+}
+
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    background-color:#ff9900;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #ff9900;
+}
+
+.top-review {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-left: 5px solid #ff9900;
+}
+.rating {
+    display: flex;
+    flex-direction: row; /* Change from row-reverse to row */
+    justify-content: start;
+}
+
+.star {
+    font-size: 24px;
+    cursor: pointer;
+    color: #ccc;
+    transition: color 0.3s;
+}
+
+.star:hover,
+.star.active {
+    color: gold;
+}
+
+
+button {
+    background-color: #ff9800;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #e68900;
+    transform: scale(1.05);
+  }
+  .product-image {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .product-image:hover {
+    transform: scale(1.1);
+  }
+  .star {
+    font-size: 24px;
+    color: gray;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .star:hover,
+  .star.selected {
+    color: gold;
+    transform: scale(1.2);
+  }
+
+  .reviews-container {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeIn 0.8s ease-in-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

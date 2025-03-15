@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit a Review - ShopEase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="logo">ShopEase</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="cart.html">Cart</a></li>
+            <li><a href="reviews.html">Customer Reviews</a></li>
+        </ul>
+    </nav>
+    <div class="rating">
+        <span class="star" data-value="1">★</span>
+        <span class="star" data-value="2">★</span>
+        <span class="star" data-value="3">★</span>
+        <span class="star" data-value="4">★</span>
+        <span class="star" data-value="5">★</span>
+    </div>
+    <input type="hidden" id="rating-value" name="rating" value="0">
+    
+    
+
+
+
+
+
+    <main>
+        <section class="review-form">
+            <h2>Write a Review</h2>
+            <form id="review-form">
+                <input type="text" id="name" placeholder="Your Name" required>
+                <textarea id="review" placeholder="Share your experience..." required></textarea>
+                <button type="submit">Submit Review</button>
+            </form>
+        </section>
+
+        <section class="review-section">
+            <h2>Recent Reviews</h2>
+            <div id="reviews-container">
+                <!-- Example Reviews -->
+                <div class="review">
+                    <strong>John Doe:</strong> <p>Great shopping experience! The delivery was fast and the quality is amazing.</p>
+                </div>
+                <div class="review">
+                    <strong>Sarah Lee:</strong> <p>I love the variety of products! Will definitely shop again.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
