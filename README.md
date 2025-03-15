@@ -1,7 +1,7 @@
 📌 Project Description
-
-   This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is built 
-   using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
+    
+    This project is a full-scale e-commerce web page designed to provide a seamless online shopping experience. The website includes product listings, a shopping cart, and an efficient checkout system. It is 
+    built using only HTML, CSS, and JavaScript to ensure a smooth and interactive user experience.
 
 🚀 Features
 
@@ -29,7 +29,7 @@
 
   3. ```sh
        cd E-commerce-web-page
-    ```
+   
 
 📷 Screenshots
 ![ShopEase - Home - Opera 14-03-2025 12_30_37](https://github.com/user-attachments/assets/4418f602-9cc7-4b95-8803-f6966b561a16)
